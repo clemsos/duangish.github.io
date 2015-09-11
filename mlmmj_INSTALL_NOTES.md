@@ -22,6 +22,6 @@
     // run as 'list' user 
     sudo su list -c "node index.js"
 
- Install NVM as global (https://www.digitalocean.com/community/tutorials/how-to-install-node-js-with-nvm-node-version-manager-on-a-vps)
+ [Install NVM as global](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-with-nvm-node-version-manager-on-a-vps)
 
 
