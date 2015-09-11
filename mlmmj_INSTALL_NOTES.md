@@ -16,6 +16,29 @@
     // don't forget to add this to your crontab:
     // 0 */2 * * * "/usr/bin/mlmmj-maintd -F -L /var/spool/mlmmj/duang/"
 
+# Web-based interface
+
+### mlmmj-php-web-admin
+
+this looks shitty 
+
+    sudo apt-get install mlmmj-php-web-admin
+
+    // see docs 
+    cat /usr/share/doc/mlmmj-php-web-admin/README.Debian
+    
+    // apache config and chown
+
+
+### [mlmmj-simple-web-interface](https://github.com/tchapi/mlmmj-simple-web-interface) (node)
+
+ This looks ok what is needed : 
+
+*  add limit users rights to archives only
+* add  a decent bootstrap theme
+ 
+ then it will be ready
+
     // install node with NVM as current user and  make it global*
     ...
 
