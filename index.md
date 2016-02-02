@@ -5,64 +5,56 @@ permalink: /
 ---
 
 
-# A Conversation about culture of technology in China
+# A conversation about technology in China
 
 
 #### Duang is a discussion platform to share research and expertise about the unfolding of technological culture in China and its relevance for global actors.
 
 
-
-An online conversation featuring a diverse panel of specialists on a wide range of topics.
-
-
-## Topics
+## Channels
 ---
 
-### The Making of Technology
+**Innovation in Chinese Manufacturing**
 
-Practical and historical perspective about how technologies unfold from inventors' mind to our shelves
+Shanzhai, makers, etc. : urban, industrial and social transformations in today's China : media, technology, policies, use cases, business environment...
 {% include buy.html %}
 
-### Innovation in China
-
-Urban, industrial and social transformations in today's China : media, technology, policies, use cases, business environment...
-{% include buy.html %}
-
-### Urban Third-Spaces
+**Urban Third-Spaces**
 
 Coworkings, hackerspaces, fablabs, incubators, digital factories, living labs... how to work in the post-industrial city ?
 {% include buy.html %}
 
-### Require a Topic
-<div class="row">
-    <div class="column">
-      <ul>
-        <li>shanzhai manufacturing</li>
-        <li>Bitcoin and future of micro-payments</li>
-        <li>etc.</li>
-      </ul>  
-    </div>
-    <div class="column">
-      <form>
-        <fieldset>
-          <label for="topic-email">
-            Your email :
-          </label>
-          <input type="text"  placeholder="Input your email" name="topic-email"/>
-          <br>
-          <label for="topic-name">
-            You can require a new topic here :
-          </label>
-           <input class="label-inline"  type="text" placeholder="Input your topic" name="topic-name"/>
-          <br>
-          <label for="topic-notes">
-            Notes
-          </label>
-         <textarea name="topic-notes"></textarea>
-        </fieldset>
-      </form>
-    </div>
-  </div>
+**The Making of Technology**
+
+Practical and historical perspective about how technologies unfold from inventors' mind to our shelves
+{% include buy.html %}
+
+**Bitcoin and future of micro-payments**
+
+blabla
+{% include buy.html %}
+
+**Require a Topic**
+
+<form>
+  <fieldset>
+    <label for="topic-email">
+      Your email :
+    </label>
+    <input type="text"  placeholder="Input your email" name="topic-email"/>
+    <br>
+    <label for="topic-name">
+      You can require a new topic here :
+    </label>
+     <input class="label-inline"  type="text" placeholder="Input your topic" name="topic-name"/>
+    <br>
+    <label for="topic-notes">
+      Notes
+    </label>
+   <textarea name="topic-notes"></textarea>
+  </fieldset>
+</form>
+
 
 
 
