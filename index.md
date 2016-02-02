@@ -7,6 +7,7 @@ permalink: /
 
 # A Conversation about culture of technology in China
 
+
 #### Duang is a discussion platform to share research and expertise about the unfolding of technological culture in China and its relevance for global actors.
 
 
@@ -18,10 +19,12 @@ An online conversation featuring a diverse panel of specialists on a wide range 
 ---
 
 ### The Making of Technology
+
 Practical and historical perspective about how technologies unfold from inventors' mind to our shelves
 {% include buy.html %}
 
 ### Innovation in China
+
 Urban, industrial and social transformations in today's China : media, technology, policies, use cases, business environment...
 {% include buy.html %}
 
