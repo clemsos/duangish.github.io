@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-# A conversation about technology in China
+#A conversation about Chinese Technology Culture.
 
 
 #### Duang is a discussion platform to share research and expertise about the unfolding of technological culture in China and its relevance for global actors.
@@ -34,7 +34,7 @@ Practical and historical perspective about how technologies unfold from inventor
 blabla
 {% include buy.html %}
 
-**Require a Topic**
+**Request a Topic**
 
 <form>
   <fieldset>
