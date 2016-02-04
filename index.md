@@ -8,7 +8,7 @@ permalink: /
 #A conversation about Chinese Technology Culture.
 
 
-#### Duang is a discussion platform to share research and expertise about the unfolding of technological culture in China and its relevance for global actors.
+### Duangish is a discussion platform to share research and expertise about the unfolding of technological culture in China and its relevance for global actors.
 
 
 ## Channels
@@ -17,21 +17,19 @@ permalink: /
 **Innovation in Chinese Manufacturing**
 
 Shanzhai, makers, etc. : urban, industrial and social transformations in today's China : media, technology, policies, use cases, business environment...
-{% include buy.html %}
 
 **Urban Third-Spaces**
 
 Coworkings, hackerspaces, fablabs, incubators, digital factories, living labs... how to work in the post-industrial city ?
-{% include buy.html %}
 
 **The Making of Technology**
 
 Practical and historical perspective about how technologies unfold from inventors' mind to our shelves
-{% include buy.html %}
 
 **Bitcoin and future of micro-payments**
 
-blabla
+Bitcoin is controlled by miners in China. What does this mean? How can you participate in this process?
+
 {% include buy.html %}
 
 **Request a Topic**
