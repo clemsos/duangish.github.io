@@ -4,6 +4,9 @@ title: Home
 permalink: /
 ---
 
+<div class="home-header-logo">
+  <img src="https://media.giphy.com/media/147C9j3zXNMkSI/giphy.gif" alt="Duangish Logo"/>
+</div>
 
 # Duangish
 
