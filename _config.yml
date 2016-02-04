@@ -4,7 +4,7 @@ email: info@duangish.com
 description: > # this means to ignore newlines until "baseurl:"
   Duang : Chinese Technology Culture
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://duangduang.us" # the base hostname & protocol for your site
+url: "http://duangish.com" # the base hostname & protocol for your site
 twitter_username: duangish
 github_username:  duangish
 
