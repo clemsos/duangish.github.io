@@ -7,47 +7,14 @@ permalink: /
 
 # Duangish
 
-### A global conversation about Chinese Technology Culture.
+## A global conversation about Chinese Technology Culture.
 
 #### Duangish is a discussion platform to share research and expertise about technological culture in China.
 
----
-
-
-**Innovation in Chinese Manufacturing**
-
-Shanzhai, makers, etc. : urban, industrial and social transformations in today's China : media, technology, policies, use cases, business environment...
-
-**Urban Third-Spaces**
-
-Coworkings, hackerspaces, fablabs, incubators, digital factories, living labs... how to work in the post-industrial city ?
-
-**Bitcoin and future of micro-payments**
-
-Bitcoin is controlled by miners in China. What does this mean? How can you participate in this process?
 
 {% include buy.html %}
 
-**Request a Topic**
-
-<form>
-  <fieldset>
-    <label for="topic-email">
-      Your email :
-    </label>
-    <input type="text"  placeholder="Input your email" name="topic-email"/>
-    <br>
-    <label for="topic-name">
-      You can require a new topic here :
-    </label>
-     <input class="label-inline"  type="text" placeholder="Input your topic" name="topic-name"/>
-    <br>
-    <label for="topic-notes">
-      Notes
-    </label>
-   <textarea name="topic-notes"></textarea>
-  </fieldset>
-</form>
+{% include topics.html %}
 
 
 ## Other Services
