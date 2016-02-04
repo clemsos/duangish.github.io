@@ -22,10 +22,6 @@ Shanzhai, makers, etc. : urban, industrial and social transformations in today's
 
 Coworkings, hackerspaces, fablabs, incubators, digital factories, living labs... how to work in the post-industrial city ?
 
-**The Making of Technology**
-
-Practical and historical perspective about how technologies unfold from inventors' mind to our shelves
-
 **Bitcoin and future of micro-payments**
 
 Bitcoin is controlled by miners in China. What does this mean? How can you participate in this process?
