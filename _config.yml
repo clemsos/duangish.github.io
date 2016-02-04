@@ -1,12 +1,12 @@
 # Site settings
-title: Duang
-email: duang@duangduang.us
+title: Duangish
+email: info@duangish.com
 description: > # this means to ignore newlines until "baseurl:"
   Duang : Chinese Technology Culture
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://duangduang.us" # the base hostname & protocol for your site
-twitter_username: duangduang
-github_username:  duangduang
+twitter_username: duangish
+github_username:  duangish
 
 # Build settings
 markdown: kramdown
