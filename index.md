@@ -10,7 +10,8 @@ permalink: /
 
 # Duangish
 
-##  A global conversation about Chinese Technology Culture.
+
+## A global conversation about Chinese Technology Culture.
 
 #### Duangish is a discussion platform to share research and expertise about technological culture in China.
 
