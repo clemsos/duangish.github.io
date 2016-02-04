@@ -5,14 +5,14 @@ permalink: /
 ---
 
 
-#A conversation about Chinese Technology Culture.
+# Duangish
 
+### A global conversation about Chinese Technology Culture.
 
-### Duangish is a discussion platform to share research and expertise about the unfolding of technological culture in China and its relevance for global actors.
+#### Duangish is a discussion platform to share research and expertise about technological culture in China.
 
-
-## Channels
 ---
+
 
 **Innovation in Chinese Manufacturing**
 
@@ -50,8 +50,6 @@ Bitcoin is controlled by miners in China. What does this mean? How can you parti
 </form>
 
 
-
-
 ## Other Services
 ---
 
@@ -67,7 +65,6 @@ We provides research, insights and trainings about the ways technological innova
 * **Data** We usually don't trust words or numbers, but we believe in solid ways to collect and consolidate information.
 * **Fieldwork** Data is often misleading without a grounded experience. Our researches evolve from long-term on-site engagement with the topics we discuss.
 * **Visualization** Maps, graphs, networks : we use multiple interfaces to offer new representations of the data and explore our topics.
-
 
 
 ## Our Clients
