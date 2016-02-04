@@ -92,3 +92,23 @@ body {
     width: 250px;
   }
 }
+
+
+$blurb-img-size:100px;
+
+.blurb {
+  margin-bottom: 1em;
+  img{
+    max-height:$blurb-img-size;
+    max-width:$blurb-img-size;
+  }
+}
+
+.circular {
+  width: 300px;
+  height: 300px;
+  border-radius: $blurb-img-size;
+  -webkit-border-radius: $blurb-img-size;
+  -moz-border-radius: $blurb-img-size;
+  background: url(http://link-to-your/image.jpg) no-repeat;
+}

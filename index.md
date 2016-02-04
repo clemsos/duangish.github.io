@@ -21,7 +21,7 @@ permalink: /
 {% include topics.html %}
 
 
-## Other Services
+## Services
 ---
 
 We provides research, insights and trainings about the ways technological innovation is changing our relationships with life, work and the city in China and the world.
@@ -45,10 +45,30 @@ We provides research, insights and trainings about the ways technological innova
 * **Entreprise & Personnel** Monthly news and updates about innovation in the HR world in China.
 
 
-## Our Team
+## Credentials
 
 ---
 
-**Clément Renaud** is a researcher, developer and artist. Working between France and China, he is specialized in data visualization and investigates the experimental forms of digital writing.  
+<div class="blurb row">
+    <div class="blurb-author row five columns">
+        <div class="six columns">
+            <img class="circular" src="/img/Clement_Renaud_Pic.JPG" alt="Clément Renaud">
+        </div>
+        <div class="six columns">
+            <p>
+              <strong>Clément Renaud</strong> is a researcher, developer and artist working between France and China. Associate research at Paris Interdisciplinary Institute for Innovation (i3).
+            </p>
+        </div>
+    </div>
+    <div class="blurb-author row five columns">
+        <div class="six columns">
+            <img class="circular" src="/img/rejon.png" alt="Jon Phillips">
+        </div>
+        <div class="six columns">
+            <p>
+              <strong>Jon Phillips</strong> is the founder of Fabricatorz. Lived in China for X years Creative Commons Early in the field of open hardware.  
+            </p>
+        </div>
+    </div>
 
-**Jon Phillips** is a the founder of Fabricatorz. Lived in China for X years Creative Commons Early in the field of open hardware
+</div>
