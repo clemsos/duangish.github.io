@@ -8,12 +8,11 @@ permalink: /
   <img src="https://media.giphy.com/media/147C9j3zXNMkSI/giphy.gif" alt="Duangish Logo"/>
 </div>
 
-# Duangish
-
+# DUANGISH
 
 ## A global conversation about Chinese Technology Culture.
 
-#### Duangish is a discussion platform to share research and expertise about technological culture in China.
+Duangish is a discussion platform to share research and expertise about technological culture in China. Conversations are freely public. Our business is private consultation, research reports, and on-demand answering of questions.
 
 
 {% include buy.html %}
