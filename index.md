@@ -66,7 +66,7 @@ We provides research, insights and trainings about the ways technological innova
         </div>
         <div class="six columns">
             <p>
-              <strong>Jon Phillips</strong> is the founder of Fabricatorz. Lived in China for X years Creative Commons Early in the field of open hardware.  
+              <strong>Jon Phillips</strong> is the founder of Fabricatorz. Lived in China for many years. Known for his work with Inkscape, Creative Commons, Qi Hardware, and in Art.  
             </p>
         </div>
     </div>
