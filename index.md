@@ -19,6 +19,7 @@ Conversations are freely public via social media. For more indepth and specific 
 {% include topics.html %}
 
 ---
+
 ## Services
 
 From China to the world, we provide research, insight and training about the ways technological innovation is changing our relationships with life, work and the city.
@@ -28,6 +29,7 @@ From China to the world, we provide research, insight and training about the way
 * **Trainings** We deliver practical knowledge and new insight from our findings from ongoing teaching sessions and discussions with teams and students.
 
 ---
+
 ### Methodology
 
 * **Data** We simply don't only trust words or numbers. We believe in solid methodical ways to collect and consolidate information.
@@ -35,6 +37,7 @@ From China to the world, we provide research, insight and training about the way
 * **Visualization** Maps, graphs, and networks: We use multiple visual and other sensory interfaces to offer new representations of the data our topics explore.
 
 ---
+
 ## Our Clients
 
 * **Mercator Institute for Chinese Media (MERICS)** Data analysis and visualization of the discussions on Chinese social networks such as *Sina Weibo*.
@@ -42,6 +45,7 @@ From China to the world, we provide research, insight and training about the way
 * **Enterprise & Personnel** Monthly news and updates about innovation in China's Human Resources field.
 
 ---
+
 ## Credentials
 
 <div class="blurb row">
