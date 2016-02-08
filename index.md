@@ -52,8 +52,8 @@ From China to the world, we provide research, insight and training about the way
 ## Credentials
 
 <div class="blurb row">
-    <div class="blurb-author row five columns">
-        <div class="six columns">
+    <div class="blurb-author row">
+        <div class="six column">
             <img class="circular" src="/img/Clement_Renaud_Pic.JPG" alt="Clément Renaud">
         </div>
         <div class="six columns">
@@ -62,7 +62,7 @@ From China to the world, we provide research, insight and training about the way
             </p>
         </div>
     </div>
-    <div class="blurb-author row five columns">
+    <div class="blurb-author row">
         <div class="six columns">
             <img class="circular" src="/img/rejon.png" alt="Jon Phillips">
         </div>
@@ -72,5 +72,4 @@ From China to the world, we provide research, insight and training about the way
             </p>
         </div>
     </div>
-
 </div>
