@@ -112,3 +112,10 @@ $blurb-img-size:100px;
   -moz-border-radius: $blurb-img-size;
   background: url(http://link-to-your/image.jpg) no-repeat;
 }
+
+.twitter-timeline-container {
+  text-align: center;
+}
+.twitter-timeline-container > iframe {
+  margin: auto;
+}

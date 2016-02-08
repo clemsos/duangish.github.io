@@ -14,8 +14,16 @@ permalink: /
 
 Conversations are freely public via social media. For more indepth and specific questions, we provide private consultation, research reports, and on-demand answering by our China experts as a service.
 
-<a class="twitter-timeline" href="https://twitter.com/duangish" data-widget-id="695539568368492544">Tweets by @duangish</a>
+<div class="twitter-timeline-container">
+<a
+  class="twitter-timeline"
+  href="https://twitter.com/duangish"
+  data-widget-id="695539568368492544"
+  data-chrome="noheader nofooter noborders transparent">
+  Tweets by @duangish
+</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
 
 {% include buy.html %}
 
