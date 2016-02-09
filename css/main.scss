@@ -115,6 +115,9 @@ $blurb-img-size:100px;
 
 .twitter-timeline-container {
   text-align: center;
+  border: 1px solid white;
+  border-radius: 4px;
+  padding: 1em;
 }
 .twitter-timeline-container > iframe {
   margin: auto;
