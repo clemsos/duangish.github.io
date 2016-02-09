@@ -47,13 +47,13 @@ From China to the world, we provide research, insight and training about the way
 * **Fieldwork** Data is often misleading without a grounded experience. Our research method is evolved from long-term on-site engagement with our discussion topics.
 * **Visualization** Maps, graphs, and networks: We use multiple visual and other sensory interfaces to offer new representations of the data our topics explore.
 
----
 
-## Our Clients
+<!-- ## Our Clients
+---
 
 * **Mercator Institute for Chinese Media (MERICS)** Data analysis and visualization of the discussions on Chinese social networks such as *Sina Weibo*.
 * **Associated Research Community Rhône-Alpes (ARC5)** Analysis of the network of collaboration between researchers, cultural institutions and social players in the field of culture and communication in the Rhône-Alpes region.
-* **Enterprise & Personnel** Monthly news and updates about innovation in China's Human Resources field.
+* **Enterprise & Personnel** Monthly news and updates about innovation in China's Human Resources field. -->
 
 ---
 
